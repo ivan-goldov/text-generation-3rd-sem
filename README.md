@@ -3,5 +3,6 @@
 To try this out
 - Clone repo
 - Install requirements
+- Go to distilbert or distilgpt2
 - Run download_model.sh
-- Run text-generation and pass beginning of the sentence as argument
+- Run text-generation
